@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "saia",
+      "price": "79",
+      "id": 4
+    },
+    {
+      "name": "sandália",
+      "price": "85.99",
+      "id": 5
+    },
+    {
+      "name": "mouse",
+      "price": "60.78",
+      "id": 6
+    },
+    {
+      "name": "mouse",
+      "price": "60.78",
+      "id": 7
+    },
+    {
+      "name": "mouse",
+      "price": "60.78",
+      "id": 8
+    },
+    {
+      "name": "mouse",
+      "price": "60.78",
+      "id": 9
+    },
+    {
+      "name": "cabo hdmi",
+      "price": "12.00",
+      "id": 10
+    },
+    {
+      "name": "cartão",
+      "price": "43.99",
+      "id": 11
+    }
+  ]
+}
